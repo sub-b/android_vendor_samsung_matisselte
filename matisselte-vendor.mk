@@ -21,4 +21,4 @@ PRODUCT_PACKAGES += \
     TimeService \
     com.qualcomm.location
 
-$(call inherit-product, vendor/samsung/matisselte/matissewifi-vendor-blobs.mk)
+$(call inherit-product, vendor/samsung/matisselte/matisselte-vendor-blobs.mk)
